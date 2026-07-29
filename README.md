@@ -1,24 +1,43 @@
-# Blender Study Log
+# Blender Daily
 
-## Day 1: Creating a Basic Circle
+A daily Blender practice repository where I improve my 3D modeling skills by creating one simple model each day.
 
-### 📌 Overview
+## Progress
 
-Started learning Blender by creating a basic circle object.
+### Day 1 - Circle
+**Model:** Basic Circle
 
-### 🛠️ What I Did
+**What I practiced**
+- Creating a Circle
+- Basic Blender interface
+- Object manipulation
 
-- Created a circle object in Blender
-- Practiced basic object creation
-- Learned the basic Blender interface
+---
 
-### 📚 What I Learned
+### Day 2 - Low Poly Cup
+**Model:** Low Poly Cup
 
-- How to add objects in Blender
-- Basic 3D modeling workflow
-- Getting familiar with Blender tools
+**What I practiced**
+- Cylinder modeling
+- Edit Mode
+- Extrude
+- Scale
+- Basic mesh editing
+- Shade Smooth
 
-### 📝 Note
+---
 
-This is the first step of my Blender learning journey.
-I will continue practicing 3D modeling for future game development projects.
+### Day 3 - Low Poly Chair
+**Model:** Low Poly Chair
+
+**What I practiced**
+- Cube modeling
+- Scale
+- Move
+- Duplicate
+- Basic object placement
+
+---
+
+## Tools
+- Blender 5.3
