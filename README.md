@@ -39,5 +39,18 @@ A daily Blender practice repository where I improve my 3D modeling skills by cre
 
 ---
 
+### Day 4 - Low Poly Wooden Table
+**Model:** Low Poly Wooden Table
+
+**What I practiced**
+- Cube modeling
+- Scale
+- Move
+- Duplicate
+- Basic object placement
+- Material colors
+
+---
+
 ## Tools
 - Blender 5.3
