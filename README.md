@@ -52,5 +52,15 @@ A daily Blender practice repository where I improve my 3D modeling skills by cre
 
 ---
 
+### Day 5 - Basic Materials
+
+**Practice**
+- Material
+- Base Color
+- Roughness
+- Metallic
+- Shader Editor
+- Procedural Wood (Beginner)
+
 ## Tools
 - Blender 5.3
